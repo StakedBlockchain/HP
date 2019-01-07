@@ -1,10 +1,3 @@
-.tim-row{
-    margin-bottom: 20px;
-}
-
-.tim-white-buttons {
-    background-color: #777777;
-}
 .tim-title{
     margin-top: 30px;
     margin-bottom: 25px;
@@ -14,54 +7,13 @@
 .tim-title.text-center{
     margin-bottom: 50px;
 }
-.typography-line{
-    padding-left: 180px;
-    margin-bottom: 20px;
-    position: relative;
-    width: 100%;
-}
-.typography-line .note{
-    bottom: 10px;
-    color: #c0c1c2;
-    display: block;
-    font-weight: 400;
-    font-size: 13px;
-    line-height: 13px;
-    left: 0;
-    margin-left: 20px;
-    position: absolute;
-    width: 260px;
-}
-.tim-row{
-    padding-top: 50px;
-}
-.tim-row h3{
-    margin-top: 0;
-}
-.switch{
-    margin-right: 20px;
-}
+
 #navbar-full .navbar{
     border-radius: 0 !important;
     margin-bottom: 0;
     z-index: 2;
 }
-.space{
-    height: 130px;
-    display: block;
-}
-.space-110{
-    height: 110px;
-    display: block;
-}
-.space-50{
-    height: 50px;
-    display: block;
-}
-.space-70{
-    height: 70px;
-    display: block;
-}
+
 .navigation-example .img-src{
     background-attachment: scroll;
 }
@@ -78,29 +30,15 @@
     background-attachment: fixed;
     margin-top:0;
 }
-#notifications{
-    background-color: #FFFFFF;
-    display: block;
-    width: 100%;
-    position: relative;
-}
+
 #carousel{
     padding-top: 0;
 }
-.note{
-    text-transform: capitalize;
-}
-.subscribe-form{
-    padding-top: 20px;
-}
+
 .page-header .card-register .title{
     margin-bottom: 10px;
 }
-.space-100{
-    height: 100px;
-    display: block;
-    width: 100%;
-}
+
 .sharing-area .btn{
     padding: 0.5rem 10px !important;
 }
@@ -422,83 +360,8 @@
     width: 16%;
     margin-left: 4%;
 }
-.presentation .first-card{
-    z-index: 6;
-}
-.presentation .second-card{
-    z-index: 5;
-}
-.presentation .third-card{
-    z-index: 4;
-}
-.presentation .fourth-card{
-    z-index: 3;
-}
-.presentation h1,
-.presentation h2{
-    font-weight: 200;
-}
-.presentation h4,
-.presentation h5,
-.presentation h6{
-    font-weight: 300;
-}
-.presentation h4{
-    font-size: 18px;
-    line-height: 24px;
-}
-.presentation .info h4{
-    font-size: 24px;
-    line-height: 28px;
-}
 
-.presentation .section-gray h1 small{
-    color: #888888;
-}
-.presentation .color-container{
-    text-align: center;
-}
-.presentation .color-container img{
-    width: 100%;
-    margin-bottom: 10px;
-}
-.presentation .circle-color{
-    width: 40px;
-    height: 40px;
-    border-radius: 10px;
-    display: block;
-    background-color: #cccccc;
-    margin: 0 auto;
-}
-.presentation .circle-red{
-    background-color: #ff3b30;
-}
-.presentation .circle-blue{
-    background-color: #3472f7;
-}
-.presentation .circle-azure{
-    background-color: #2ca8ff;
-}
-.presentation .circle-green{
-    background-color: #05ae0e;
-}
-.presentation .circle-orange{
-    background-color: #ff9500;
-}
 
-.presentation .section-gray-gradient{
-    background: rgb(255,255,255); /* Old browsers */
-    background: -moz-linear-gradient(top,  rgba(255,255,255,1) 25%, rgba(231,231,231,1) 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(25%,rgba(255,255,255,1)), color-stop(100%,rgba(231,231,231,1))); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 25%,rgba(231,231,231,1) 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  rgba(255,255,255,1) 25%,rgba(231,231,231,1) 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  rgba(255,255,255,1) 25%,rgba(231,231,231,1) 100%); /* IE10+ */
-    background: linear-gradient(to bottom,  rgba(255,255,255,1) 25%,rgba(231,231,231,1) 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e7e7e7',GradientType=0 ); /* IE6-9 */
-}
-.presentation .section-black{
-    background-color: #333;
-}
 
 .rotating-card-container {
     -webkit-perspective: 900px;
