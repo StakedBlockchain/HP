@@ -1,0 +1,1 @@
+web3.eth.sendTransaction({from:eth.accounts[0],to:eth.accounts[0],value:web3.toWei(1‌​00,'finney'),data:web3.toHex('IamSota')}
